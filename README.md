@@ -1,2 +1,2 @@
 # BussoFumogeno.github.io
-Sito per gestire gli appunti presi a lezione
+Sito per gestire gli appunti presi a lezione.
