@@ -14,5 +14,13 @@
       "text_made_by": "Paolino Paperino",
       "questions": "2_questions.json"
     }
+    ,
+    {
+      "date": "13/10/2023",
+      "title": "Lezione 3",
+      "text": "3.html",
+      "text_made_by": "Bussolini Matteo",
+      "questions": "3_questions.json"
+    }
   ]
 }  
